@@ -38,4 +38,6 @@ Kiểm tra hợp đồng API, tham số, năm preview, xử lý kết quả và 
 
 ## Xuất bản
 
-Đây là bản nguồn được dựng lại và sao lưu vào kho GitHub này. Bản Sites mới đang được xuất bản riêng; địa chỉ Sites cũ không bị thay đổi. Bản build tĩnh nằm trong `dist` sau khi chạy `npm run build`.
+Đã xuất bản thành công ngày 22/09/2026: https://flow-studio-tinh.tinhnoidungso.chatgpt.site
+
+Bản Sites hiện chỉ chủ sở hữu truy cập bằng tài khoản ChatGPT đã xuất bản. Đây là địa chỉ mới; website cũ không bị thay đổi. Nguồn được sao lưu tại kho GitHub này. Đã kiểm tra 9 bài kiểm tra, build, giao diện desktop/mobile và cả năm preview với ảnh thật. Chưa xác nhận một lượt tạo video hoàn chỉnh từ dịch vụ bên ngoài.
