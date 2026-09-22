@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.tmp
+*.tmp.mjs
+.env*
+!.env.example
+artifacts/
